@@ -1,3 +1,4 @@
+![logo](https://github.com/rimi-majumdar/RimiMajumdar/commit/03f93739bc382fe025676c53650f23f00c263e45.png)
 <h1 align="center">Hi 👋, I'm Rimi Majumdar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
