@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **majumdarrimi9@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/VICTUS/Downloads/Rimi-Majumdar_CV%20(1).pdf](file:///C:/Users/VICTUS/Downloads/Rimi-Majumdar_CV%20(1).pdf)
-
 - ⚡ Fun fact **I am a fast learner and open to upgrade myself with new skills**
 
 <h3 align="left">Connect with me:</h3>
