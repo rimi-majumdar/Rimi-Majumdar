@@ -1,4 +1,4 @@
-![logo](https://github.com/rimi-majumdar/Rimi-Majumdar/blob/main/Writing%20and%20Reading%20Corner%20Banners.png)
+
 <h1 align="center">Hi 👋, I'm Rimi Majumdar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
